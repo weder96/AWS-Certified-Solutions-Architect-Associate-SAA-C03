@@ -350,20 +350,19 @@ AWS services are grouped according to their primary functions. While some of the
 be covered more than others on the exam, the order and placement of them in this list is no indication of
 relative weight or importance:
 
-- Compute
+- [Compute](https://github.com/weder96/aws-certification-learning/tree/main/module-6)
 - Cost management
-- Database
+- [Database](https://github.com/weder96/aws-certification-learning/tree/main/module-8)
 - Disaster recovery
 - High performance
 - Management and governance
 - Microservices and component decoupling
-- Migration and data transfer
+- [Migration and data transfer](https://github.com/weder96/aws-certification-learning/tree/main/module-13)
 - Networking, connectivity, and content delivery
 - Resiliency
-- Security
+- [Security](https://github.com/weder96/aws-certification-learning/tree/main/module-4)
 - Serverless and event-driven design principles
-- Storage
-
+- [Storage](https://github.com/weder96/aws-certification-learning/tree/main/module-7)
 
 -------------------------------------------------------------------------------------------------------
 
