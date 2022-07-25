@@ -42,17 +42,24 @@ questions. These unscored questions are not identified on the exam.
 The AWS Certified Solutions Architect - Associate exam is a pass or fail exam. The exam is scored against a
 minimum standard established by AWS professionals who follow certification industry best practices and
 guidelines.
+
 Your results for the exam are reported as a scaled score of 100–1,000. The minimum passing score is 720.
+
 Your score shows how you performed on the exam as a whole and whether or not you passed. Scaled
 scoring models help equate scores across multiple exam forms that might have slightly different difficulty
 levels.
-Your score report could contain a table of classifications of your performance at each section level. This
-information provides general feedback about your exam performance. The exam uses a compensatory
-scoring model, which means that you do not need to achieve a passing score in each section. You need to
-pass only the overall exam.
+
+Your score report could contain a table of classifications of your performance at each section level. 
+
+This information provides general feedback about your exam performance. The exam uses a compensatory
+scoring model, which means that you do not need to achieve a passing score in each section. 
+
+You need to pass only the overall exam.
+
 Each section of the exam has a specific weighting, so some sections have more questions than other
-sections have. The table contains general information that highlights your strengths and weaknesses. Use
-caution when interpreting section-level feedback. Candidates who pass the exam will not receive this
+sections have. The table contains general information that highlights your strengths and weaknesses. 
+
+Use caution when interpreting section-level feedback. Candidates who pass the exam will not receive this
 additional information.
 
 ## Content outline
