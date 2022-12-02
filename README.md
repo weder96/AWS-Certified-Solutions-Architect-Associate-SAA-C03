@@ -3,6 +3,26 @@ AWS Certified Solutions Architect - Associate (SAA-C03)
 [AWS Certified Solutions Architect - Associate (SAA-C03) Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide_C03.pdf)
 
 
+This study guide will help you pass the newer AWS Certified Solutions Architect - Associate exam. Ideally, you should reference this guide while working through the following material:
+
+1. Stephane Maarek's [Ultimate AWS Certified Solutions Architect Associate 2021 course](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/?couponCode=DEC_22_GET_STARTED) (permanent discount available through this link) 
+A Cloud Guru's [AWS Certified Solutions Architect Associate SAA-C02](https://acloud.guru/learn/aws-certified-solutions-architect-associate) course
+
+2. The FAQs for the most critical services, included in the recommended reading list below
+
+3. Tutorials Dojo's [AWS Certified Solutions Architect Associate](https://www.udemy.com/course/aws-certified-solutions-architect-associate-amazon-practice-exams-saa-c03/) Practice Exams
+
+4. Andrew Brown's [AWS Certified Solutions Architect](https://www.youtube.com/watch?v=Ia-UEYYR44s) - Associate 2020 (PASS THE EXAM!) | Ad-Free Course
+
+Notes: If at any point you find yourself feeling uncertain of your progress and in need of more time, you can postpone your AWS exam date. Be sure to also keep up with the ongoing discussions in [r/AWSCertifications](https://www.reddit.com/r/AWSCertifications/) as you will find relevant exam tips, studying material, and advice from other exam takers. 
+
+Before experimenting with AWS, it's very important to be sure that you know what is [free tier](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all) and what isn't. 
+
+Relevant Free Tier FAQs can be found here. Finally, Udemy often has their courses go on sale from time to time. It might be worth waiting to purchase either the Tutorial Dojo practice exam or Stephane Maarek's course depending on how urgently you need the content.
+
+
+
+
 # Introduction
 The AWS Certified Solutions Architect - Associate (SAA-C03) exam is intended for individuals who perform
 in a solutions architect role. The exam validates a candidate’s ability to use AWS technologies to design
@@ -351,17 +371,17 @@ be covered more than others on the exam, the order and placement of them in this
 relative weight or importance:
 
 - [Compute](https://github.com/weder96/aws-certification-learning/tree/main/module-6)
-- Cost management
+- [Cost management](https://github.com/weder96/aws-certification-learning/tree/main/module-2)
 - [Database](https://github.com/weder96/aws-certification-learning/tree/main/module-8)
 - Disaster recovery
 - High performance
 - Management and governance
 - Microservices and component decoupling
 - [Migration and data transfer](https://github.com/weder96/aws-certification-learning/tree/main/module-13)
-- Networking, connectivity, and content delivery
+- [Networking, connectivity, and content delivery](https://github.com/weder96/aws-certification-learning/tree/main/module-5)
 - Resiliency
 - [Security](https://github.com/weder96/aws-certification-learning/tree/main/module-4)
-- Serverless and event-driven design principles
+- [Serverless and event-driven design principles](https://github.com/weder96/aws-certification-learning/tree/main/module-14)
 - [Storage](https://github.com/weder96/aws-certification-learning/tree/main/module-7)
 
 -------------------------------------------------------------------------------------------------------
@@ -391,7 +411,7 @@ relative weight or importance:
 - AWS Step Functions
 
 ## AWS Cost Management:
-- AWS Budgets
+- [AWS Budgets](https://github.com/weder96/aws-certification-learning#section-02)
 - AWS Cost and Usage Report
 - AWS Cost Explorer
 - Savings Plans
