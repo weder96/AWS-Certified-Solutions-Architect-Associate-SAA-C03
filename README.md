@@ -417,14 +417,14 @@ relative weight or importance:
 - [Savings Plans](https://github.com/weder96/aws-certification-learning/tree/main/module-2#section-07)
 
 ## Compute:
-- AWS Batch
-- Amazon EC2
-- Amazon EC2 Auto Scaling
-- AWS Elastic Beanstalk
-- AWS Outposts
-- AWS Serverless Application Repository
-- VMware Cloud on AWS
-- AWS Wavelength
+- [AWS Batch](https://github.com/weder96/aws-certification-learning/tree/main/module-6#section-9)
+- [Amazon EC2](https://github.com/weder96/aws-certification-learning/tree/main/module-6#section-1)
+- [Amazon EC2 Auto Scaling](https://github.com/weder96/aws-certification-learning/tree/main/module-10#section-1)
+- [AWS Elastic Beanstalk](https://github.com/weder96/aws-certification-learning/tree/main/module-6#section-8)
+- [AWS Outposts](https://github.com/weder96/aws-certification-learning/tree/main/module-6#section-10)
+- [AWS Serverless Application Repository](https://github.com/weder96/aws-certification-learning/tree/main/module-6#section-11)
+- [VMware Cloud on AWS](https://github.com/weder96/aws-certification-learning/tree/main/module-6#section-12)
+- [AWS Wavelength](https://github.com/weder96/aws-certification-learning/tree/main/module-6#section-13)
 
 ## Containers:
 - Amazon Elastic Container Registry (Amazon ECR)
