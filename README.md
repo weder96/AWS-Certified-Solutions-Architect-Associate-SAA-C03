@@ -412,9 +412,9 @@ relative weight or importance:
 
 ## AWS Cost Management:
 - [AWS Budgets](https://github.com/weder96/aws-certification-learning#section-02)
-- AWS Cost and Usage Report
-- AWS Cost Explorer
-- Savings Plans
+- [AWS Cost and Usage Report](https://github.com/weder96/aws-certification-learning/tree/main/module-2#section-06)
+- [AWS Cost Explorer](https://github.com/weder96/aws-certification-learning/tree/main/module-2#section-04)
+- [Savings Plans](https://github.com/weder96/aws-certification-learning/tree/main/module-2#section-07)
 
 ## Compute:
 - AWS Batch
