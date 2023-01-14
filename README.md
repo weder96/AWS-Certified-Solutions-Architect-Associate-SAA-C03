@@ -1,6 +1,6 @@
-AWS Certified Solutions Architect - Associate (SAA-C03)
+# **AWS Certified Solutions Architect - Associate (SAA-C03)**
 
-[AWS Certified Solutions Architect - Associate (SAA-C03) Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide_C03.pdf)
+[**AWS Certified Solutions Architect - Associate (SAA-C03) Exam Guide**](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide_C03.pdf)
 
 
 This study guide will help you pass the newer AWS Certified Solutions Architect - Associate exam. Ideally, you should reference this guide while working through the following material:
@@ -389,172 +389,172 @@ relative weight or importance:
 # AWS services and features
 
 ## Analytics:
-- [Amazon Athena](https://github.com/weder96/aws-certification-learning/tree/main/module-11#section-2)
-- AWS Data Exchange
-- AWS Data Pipeline
-- Amazon EMR
-- [AWS Glue](https://github.com/weder96/aws-certification-learning/tree/main/module-11#section-3)
-- [Amazon Kinesis](https://github.com/weder96/aws-certification-learning/tree/main/module-11#section-5)
-- AWS Lake Formation
-- Amazon Managed Streaming for Apache Kafka (Amazon MSK)
-- Amazon OpenSearch Service (Amazon Elasticsearch Service)
-- Amazon QuickSight
-- Amazon Redshift
+1. <img src="./images/solid/check.png" width="20px"><a href="https://github.com/weder96/aws-certification-learning/tree/main/module-11#section-2" target="_blank">Amazon Athena</a>
+2. <img src="./images/solid/check.png" width="20px"><a href="https://github.com/weder96/aws-certification-learning/tree/main/module-11#section-11" target="_blank">AWS Data Exchange</a>
+3. <img src="./images/solid/check.png" width="20px"><a href="https://github.com/weder96/aws-certification-learning/tree/main/module-11#section-12" target="_blank">AWS Data Pipeline</a>
+4. <img src="./images/solid/check.png" width="20px"><a href="https://github.com/weder96/aws-certification-learning/tree/main/module-11#section-01" target="_blank">Amazon EMR</a>
+5. <img src="./images/solid/check.png" width="20px"><a href="https://github.com/weder96/aws-certification-learning/tree/main/module-11#section-3" target="_blank">AWS Glue</a>
+6. <img src="./images/solid/check.png" width="20px"><a href="https://github.com/weder96/aws-certification-learning/tree/main/module-11#section-5" target="_blank">Amazon Kinesis</a>
+7. <img src="./images/solid/check.png" width="20px"><a href="https://github.com/weder96/aws-certification-learning/tree/main/module-11#section-14" target="_blank">AWS Lake Formation</a>
+8. <img src="./images/solid/check.png" width="20px"><a href="https://github.com/weder96/aws-certification-learning/tree/main/module-11#section-17" target="_blank">Amazon Managed Streaming for Apache Kafka (Amazon MSK)</a>
+9. <img src="./images/solid/noCheck.png" width="20px"><a href="#" target="_blank">Amazon OpenSearch Service (Amazon Elasticsearch Service)</a>
+10. <img src="./images/solid/check.png" width="20px"><a href="https://github.com/weder96/aws-certification-learning/tree/main/module-11#section-15" target="_blank">Amazon QuickSight</a>
+11. <img src="./images/solid/check.png" width="20px"><a href="https://github.com/weder96/aws-certification-learning/tree/main/module-8#section-04" target="_blank">Amazon Redshift</a>
 
 ## Application Integration:
-- Amazon AppFlow
-- AWS AppSync
-- Amazon EventBridge (Amazon CloudWatch Events)
-- Amazon MQ
-- Amazon Simple Notification Service (Amazon SNS)
-- Amazon Simple Queue Service (Amazon SQS)
-- AWS Step Functions
+1. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank">Amazon AppFlow</a>
+2. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank">AWS AppSync</a>
+3. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank">Amazon EventBridge (Amazon CloudWatch Events)</a>
+4. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank">Amazon MQ</a>
+5. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-12#section-1" target="_blank">Amazon Simple Notification Service (Amazon SNS)</a>
+6. <img src="./images/solid/check.png" width="20px"> <a href="vhttps://github.com/weder96/aws-certification-learning/tree/main/module-12#section-2" target="_blank">Amazon Simple Queue Service (Amazon SQS)</a>
+7. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank">AWS Step Functions</a>
 
 ## AWS Cost Management:
-- [AWS Budgets](https://github.com/weder96/aws-certification-learning#section-02)
-- [AWS Cost and Usage Report](https://github.com/weder96/aws-certification-learning/tree/main/module-2#section-06)
-- [AWS Cost Explorer](https://github.com/weder96/aws-certification-learning/tree/main/module-2#section-04)
-- [Savings Plans](https://github.com/weder96/aws-certification-learning/tree/main/module-2#section-07)
+1. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning#section-02" target="_blank">AWS Budgets</a>
+2. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-2#section-06" target="_blank">AWS Cost and Usage Report </a>
+3. <img src="./images/solid/noCheck.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-2#section-04" target="_blank">AWS Cost Explorer</a>
+4. <img src="./images/solid/noCheck.png" width="20px">  <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-2#section-07" target="_blank">Savings Plans</a>
 
 ## Compute:
-- [AWS Batch](https://github.com/weder96/aws-certification-learning/tree/main/module-6#section-9)
-- [Amazon EC2](https://github.com/weder96/aws-certification-learning/tree/main/module-6#section-1)
-- [Amazon EC2 Auto Scaling](https://github.com/weder96/aws-certification-learning/tree/main/module-10#section-1)
-- [AWS Elastic Beanstalk](https://github.com/weder96/aws-certification-learning/tree/main/module-6#section-8)
-- [AWS Outposts](https://github.com/weder96/aws-certification-learning/tree/main/module-6#section-10)
-- [AWS Serverless Application Repository](https://github.com/weder96/aws-certification-learning/tree/main/module-6#section-11)
-- [VMware Cloud on AWS](https://github.com/weder96/aws-certification-learning/tree/main/module-6#section-12)
-- [AWS Wavelength](https://github.com/weder96/aws-certification-learning/tree/main/module-6#section-13)
+1. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-6#section-9" target="_blank"> AWS Batch </a>
+2. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-6#section-1" target="_blank"> Amazon EC2</a>
+3. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-10#section-1" target="_blank"> Amazon EC2 Auto Scaling</a>
+4. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-6#section-8" target="_blank"> AWS Elastic Beanstalk</a>
+5. <img src="./images/solid/noCheck.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-6#section-10" target="_blank"> AWS Outposts</a>
+6. <img src="./images/solid/noCheck.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-6#section-11" target="_blank"> AWS Serverless Application Repository</a>
+7. <img src="./images/solid/noCheck.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-6#section-12" target="_blank"> VMware Cloud on AWS</a>
+8. <img src="./images/solid/noCheck.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-6#section-13" target="_blank"> AWS Wavelength</a>
 
 ## Containers:
-- Amazon Elastic Container Registry (Amazon ECR)
-- Amazon Elastic Container Service (Amazon ECS)
-- Amazon ECS Anywhere
-- Amazon Elastic Kubernetes Service (Amazon EKS)
-- Amazon EKS Anywhere
-- Amazon EKS Distro
+1. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon Elastic Container Registry (Amazon ECR)</a>
+2. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-18#section-02" target="_blank"> Amazon Elastic Container Service (Amazon ECS)</a>
+3. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-18#section-02" target="_blank"> Amazon ECS Anywhere</a>
+4. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-18#section-03" target="_blank"> Amazon Elastic Kubernetes Service (Amazon EKS)</a>
+5. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-18#section-03" target="_blank"> Amazon EKS Anywhere</a>
+6. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-18#section-03" target="_blank"> Amazon EKS Distro</a>
 
 
 ## Database:
-- Amazon Aurora
-- Amazon Aurora Serverless
-- Amazon DocumentDB (with MongoDB compatibility)
-- Amazon DynamoDB
-- Amazon ElastiCache
-- Amazon Keyspaces (for Apache Cassandra)
-- Amazon Neptune
-- Amazon Quantum Ledger Database (Amazon QLDB)
-- Amazon RDS
-- Amazon Redshift
-- Amazon Timestream
+1. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-8#section-12" target="_blank"> Amazon Aurora</a>
+2. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon Aurora Serverless</a>
+3. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon DocumentDB (with MongoDB compatibility)</a>
+4. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-8#section-03" target="_blank"> Amazon DynamoDB</a>
+5. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-8#section-05" target="_blank"> Amazon ElastiCache</a>
+6. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon Keyspaces (for Apache Cassandra)</a>
+7. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon Neptune</a>
+8. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon Quantum Ledger Database (Amazon QLDB)</a>
+9. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-8#section-02" target="_blank"> Amazon RDS</a>
+10. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-8#section-04" target="_blank"> Amazon Redshift</a>
+11. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon Timestream</a>
 
 ## Developer Tools:
-- AWS X-Ray
+1. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS X-Ray</a>
 
 ## Front-End Web and Mobile:
-- AWS Amplify
-- Amazon API Gateway
-- AWS Device Farm
-- Amazon Pinpoint
+1. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS Amplify</a>
+2. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon API Gateway</a>
+3. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS Device Farm</a>
+4. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon Pinpoint</a>
 
 
 ## Machine Learning:
-- Amazon Comprehend
-- Amazon Forecast
-- Amazon Fraud Detector
-- Amazon Kendra
-- Amazon Lex
-- Amazon Polly
-- Amazon Rekognition
-- Amazon SageMaker
-- Amazon Textract
-- Amazon Transcribe
-- Amazon Translate
+1. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon Comprehend</a>
+2. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon Forecast</a>
+3. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon Fraud Detector</a>
+4. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon Kendra</a>
+5. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon Lex</a>
+6. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon Polly</a>
+7. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon Rekognition</a>
+8. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon SageMaker</a>
+9. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon Textract</a>
+10. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon Transcribe</a>
+11. <img src="./images/solid/noCheck.png" width="20px">  <a href="#" target="_blank"> Amazon Translate</a>
 
 
 ## Management and Governance:
-- AWS Auto Scaling
-- AWS CloudFormation
-- AWS CloudTrail
-- Amazon CloudWatch
-- AWS Command Line Interface (AWS CLI)
-- AWS Compute Optimizer
-- AWS Config
-- AWS Control Tower
-- AWS License Manager
-- Amazon Managed Grafana
-- Amazon Managed Service for Prometheus
-- AWS Management Console
-- AWS Organizations
-- AWS Personal Health Dashboard
-- AWS Proton
-- AWS Service Catalog
-- AWS Systems Manager
-- AWS Trusted Advisor
-- AWS Well-Architected Tool
+1. <img src="./images/solid/noCheck.png" width="20px">  <a href="#" target="_blank"> AWS Auto Scaling </a>
+2. <img src="./images/solid/noCheck.png" width="20px">  <a href="#" target="_blank"> AWS CloudFormation </a>
+3. <img src="./images/solid/noCheck.png" width="20px">  <a href="#" target="_blank"> AWS CloudTrail </a>
+4. <img src="./images/solid/noCheck.png" width="20px">  <a href="#" target="_blank"> Amazon CloudWatch</a>
+5. <img src="./images/solid/noCheck.png" width="20px">  <a href="#" target="_blank"> AWS Command Line Interface (AWS CLI)</a>
+6. <img src="./images/solid/noCheck.png" width="20px">  <a href="#" target="_blank"> AWS Compute Optimizer</a>
+7. <img src="./images/solid/noCheck.png" width="20px">  <a href="#" target="_blank"> AWS Config</a>
+8. <img src="./images/solid/noCheck.png" width="20px">  <a href="#" target="_blank"> AWS Control Tower</a>
+9. <img src="./images/solid/noCheck.png" width="20px">  <a href="#" target="_blank"> AWS License Manager</a>
+10. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon Managed Grafana</a>
+11. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon Managed Service for Prometheus</a>
+12. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS Management Console</a>
+13. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS Organizations</a>
+14. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS Personal Health Dashboard</a>
+15. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS Proton</a>
+16. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS Service Catalog</a>
+17. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS Systems Manager</a>
+18. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS Trusted Advisor</a>
+19. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS Well Architected Tool</a>
 
 ## Media Services:
-- Amazon Elastic Transcoder
-- Amazon Kinesis Video Streams
+1. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon Elastic Transcoder</a>
+2. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon Kinesis Video Streams</a>
 
 ## Migration and Transfer:
-- AWS Application Discovery Service
-- AWS Application Migration Service (CloudEndure Migration)
-- AWS Database Migration Service (AWS DMS)
-- AWS DataSync
-- AWS Migration Hub
-- AWS Server Migration Service (AWS SMS)
-- AWS Snow Family
-- AWS Transfer Family
+1. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank">  AWS Application Discovery Service</a>
+2. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS Application Migration Service (CloudEndure Migration)</a>
+3. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank">  AWS Database Migration Service (AWS DMS)</a>
+4. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS DataSync</a>
+5. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS Migration Hub</a>
+6. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank">  AWS Server Migration Service (AWS SMS)</a>
+7. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS Snow Family</a>
+8. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS Transfer Family</a>
 
 
 ## Networking and Content Delivery:
-- Amazon CloudFront
-- AWS Direct Connect
-- Elastic Load Balancing (ELB)
-- AWS Global Accelerator
-- AWS PrivateLink
-- Amazon Route 53
-- AWS Transit Gateway
-- Amazon VPC
-- AWS VPN
+1. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon CloudFront</a>
+2. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS Direct Connect</a>
+3. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank">  Elastic Load Balancing (ELB)</a>
+4. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank">  AWS Global Accelerator</a>
+5. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank">  AWS PrivateLink</a>
+6. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank">  Amazon Route 53</a>
+7. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS Transit Gateway</a>
+8. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon VPC</a>
+9. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank">  AWS VPN</a>
 
 
 ## Security, Identity, and Compliance:
-- AWS Artifact
-- AWS Audit Manager
-- AWS Certificate Manager (ACM)
-- AWS CloudHSM
-- Amazon Cognito
-- Amazon Detective
-- AWS Directory Service
-- AWS Firewall Manager
-- Amazon GuardDuty
-- AWS Identity and Access Management (IAM)
-- Amazon Inspector
-- AWS Key Management Service (AWS KMS)
-- Amazon Macie
-- AWS Network Firewall
-- AWS Resource Access Manager (AWS RAM)
-- AWS Secrets Manager
-- AWS Security Hub
-- AWS Shield
-- AWS Single Sign-On
-- AWS WAF
+1. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS Artifact</a>
+2. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS Audit Manager</a>
+3. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS Certificate Manager (ACM)</a>
+4. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS CloudHSM</a>
+5. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon Cognito</a>
+6. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon Detective</a>
+7. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank">  AWS Directory Service</a>
+8. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS Firewall Manager</a>
+9. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon GuardDuty</a>
+10. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank">  AWS Identity and Access Management (IAM)</a>
+11. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon Inspector</a>
+12. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS Key Management Service (AWS KMS)</a>
+13. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon Macie</a>
+14. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS Network Firewall</a>
+15. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS Resource Access Manager (AWS RAM)</a>
+16. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS Secrets Manager</a>
+17. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS Security Hub</a>
+18. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank">  AWS Shield</a>
+19. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank">  AWS Single Sign-On</a>
+20. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank">  AWS WAF</a>
 
 ## Serverless:
-- AWS AppSync
-- AWS Fargate
-- AWS Lambda
+1. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank">  AWS AppSync</a>
+2. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS Fargate</a>
+3. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS Lambda</a>
 
 ## Storage:
-- AWS Backup
-- Amazon Elastic Block Store (Amazon EBS)
-- Amazon Elastic File System (Amazon EFS)
-- Amazon FSx (for all types)
-- Amazon S3
-- Amazon S3 Glacier
-- AWS Storage Gateway
+1. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank">  AWS Backup</a>
+2. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon Elastic Block Store (Amazon EBS)</a>
+3. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon Elastic File System (Amazon EFS)</a>
+4. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon FSx (for all types)</a>
+5. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon S3</a>
+6. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon S3 Glacier</a>
+7. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS Storage Gateway</a>
 
 ------------------------------------------------------------------------------------------
 
