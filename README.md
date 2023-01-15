@@ -407,7 +407,7 @@ relative weight or importance:
 3. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-12#section-7" target="_blank">Amazon EventBridge (Amazon CloudWatch Events)</a>
 4. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-12#section-3" target="_blank">Amazon MQ</a>
 5. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-12#section-1" target="_blank">Amazon Simple Notification Service (Amazon SNS)</a>
-6. <img src="./images/solid/check.png" width="20px"> <a href="vhttps://github.com/weder96/aws-certification-learning/tree/main/module-12#section-2" target="_blank">Amazon Simple Queue Service (Amazon SQS)</a>
+6. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-12#section-2" target="_blank">Amazon Simple Queue Service (Amazon SQS)</a>
 7. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-12#section-8" target="_blank">AWS Step Functions</a>
 
 ## AWS Cost Management:
