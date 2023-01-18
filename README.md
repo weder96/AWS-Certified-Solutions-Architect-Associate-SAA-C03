@@ -411,23 +411,23 @@ relative weight or importance:
 7. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-12#section-8" target="_blank">AWS Step Functions</a>
 
 ## AWS Cost Management:
-1. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning#section-02" target="_blank">AWS Budgets</a>
+1. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-2#section-02" target="_blank">AWS Budgets</a>
 2. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-2#section-06" target="_blank">AWS Cost and Usage Report </a>
 3. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-2#section-04" target="_blank">AWS Cost Explorer</a>
-4. <img src="./images/solid/check.png" width="20px">  <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-2#section-07" target="_blank">Savings Plans</a>
+4. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-2#section-07" target="_blank">Savings Plans</a>
 
 ## Compute:
 1. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-6#section-9" target="_blank"> AWS Batch </a>
 2. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-6#section-1" target="_blank"> Amazon EC2</a>
 3. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-10#section-1" target="_blank"> Amazon EC2 Auto Scaling</a>
 4. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-6#section-8" target="_blank"> AWS Elastic Beanstalk</a>
-5. <img src="./images/solid/noCheck.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-6#section-10" target="_blank"> AWS Outposts</a>
-6. <img src="./images/solid/noCheck.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-6#section-11" target="_blank"> AWS Serverless Application Repository</a>
-7. <img src="./images/solid/noCheck.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-6#section-12" target="_blank"> VMware Cloud on AWS</a>
-8. <img src="./images/solid/noCheck.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-6#section-13" target="_blank"> AWS Wavelength</a>
+5. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-6#section-10" target="_blank"> AWS Outposts</a>
+6. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-6#section-11" target="_blank"> AWS Serverless Application Repository</a>
+7. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-6#section-12" target="_blank"> VMware Cloud on AWS</a>
+8. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-6#section-13" target="_blank"> AWS Wavelength</a>
 
 ## Containers:
-1. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon Elastic Container Registry (Amazon ECR)</a>
+1. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-18#section-01" target="_blank"> Amazon Elastic Container Registry (Amazon ECR)</a>
 2. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-18#section-02" target="_blank"> Amazon Elastic Container Service (Amazon ECS)</a>
 3. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-18#section-02" target="_blank"> Amazon ECS Anywhere</a>
 4. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-18#section-03" target="_blank"> Amazon Elastic Kubernetes Service (Amazon EKS)</a>
@@ -437,19 +437,19 @@ relative weight or importance:
 
 ## Database:
 1. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-8#section-12" target="_blank"> Amazon Aurora</a>
-2. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon Aurora Serverless</a>
-3. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon DocumentDB (with MongoDB compatibility)</a>
+2. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-8#section-15" target="_blank"> Amazon Aurora Serverless</a>
+3. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-8#section-13" target="_blank"> Amazon DocumentDB (with MongoDB compatibility)</a>
 4. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-8#section-03" target="_blank"> Amazon DynamoDB</a>
 5. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-8#section-05" target="_blank"> Amazon ElastiCache</a>
-6. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon Keyspaces (for Apache Cassandra)</a>
-7. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon Neptune</a>
-8. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon Quantum Ledger Database (Amazon QLDB)</a>
+6. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-8#section-16" target="_blank"> Amazon Keyspaces (for Apache Cassandra)</a>
+7. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-8#section-11" target="_blank"> Amazon Neptune</a>
+8. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-8#section-14" target="_blank"> Amazon Quantum Ledger Database (Amazon QLDB)</a>
 9. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-8#section-02" target="_blank"> Amazon RDS</a>
 10. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-8#section-04" target="_blank"> Amazon Redshift</a>
-11. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon Timestream</a>
+11. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-8#section-17" target="_blank"> Amazon Timestream</a>
 
 ## Developer Tools:
-1. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS X-Ray</a>
+1. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-26#section-01" target="_blank"> AWS X-Ray</a>
 
 ## Front-End Web and Mobile:
 1. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS Amplify</a>
@@ -459,17 +459,17 @@ relative weight or importance:
 
 
 ## Machine Learning:
-1. <img src="./images/solid/noCheck.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-19#section-01" target="_blank"> Amazon Comprehend</a>
-2. <img src="./images/solid/noCheck.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-19#section-02" target="_blank"> Amazon Forecast</a>
-3. <img src="./images/solid/noCheck.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-19#section-03" target="_blank"> Amazon Fraud Detector</a>
-4. <img src="./images/solid/noCheck.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-19#section-04" target="_blank"> Amazon Kendra</a>
-5. <img src="./images/solid/noCheck.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-19#section-05" target="_blank"> Amazon Lex</a>
-6. <img src="./images/solid/noCheck.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-19#section-06" target="_blank"> Amazon Polly</a>
-7. <img src="./images/solid/noCheck.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-19#section-07" target="_blank"> Amazon Rekognition</a>
-8. <img src="./images/solid/noCheck.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-19#section-08" target="_blank"> Amazon SageMaker</a>
-9. <img src="./images/solid/noCheck.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-19#section-09" target="_blank"> Amazon Textract</a>
-10. <img src="./images/solid/noCheck.png" width="20px"><a href="https://github.com/weder96/aws-certification-learning/tree/main/module-19#section-10" target="_blank"> Amazon Transcribe</a>
-11. <img src="./images/solid/noCheck.png" width="20px"><a href="https://github.com/weder96/aws-certification-learning/tree/main/module-19#section-11" target="_blank"> Amazon Translate</a>
+1. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-19#section-01" target="_blank"> Amazon Comprehend</a>
+2. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-19#section-02" target="_blank"> Amazon Forecast</a>
+3. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-19#section-03" target="_blank"> Amazon Fraud Detector</a>
+4. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-19#section-04" target="_blank"> Amazon Kendra</a>
+5. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-19#section-05" target="_blank"> Amazon Lex</a>
+6. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-19#section-06" target="_blank"> Amazon Polly</a>
+7. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-19#section-07" target="_blank"> Amazon Rekognition</a>
+8. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-19#section-08" target="_blank"> Amazon SageMaker</a>
+9. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-19#section-09" target="_blank"> Amazon Textract</a>
+10. <img src="./images/solid/check.png" width="20px"><a href="https://github.com/weder96/aws-certification-learning/tree/main/module-19#section-10" target="_blank"> Amazon Transcribe</a>
+11. <img src="./images/solid/check.png" width="20px"><a href="https://github.com/weder96/aws-certification-learning/tree/main/module-19#section-11" target="_blank"> Amazon Translate</a>
 
 
 ## Management and Governance:
@@ -544,7 +544,7 @@ relative weight or importance:
 20. <img src="./images/solid/check.png" width="20px"><a href="https://github.com/weder96/aws-certification-learning/tree/main/module-4#section-04" target="_blank"> AWS WAF</a>
 
 ## Serverless:
-1. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS AppSync</a>
+1. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-12#section-4" target="_blank"> AWS AppSync</a>
 2. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-18#section-04" target="_blank"> AWS Fargate</a>
 3. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-14#section-1" target="_blank"> AWS Lambda</a>
 
