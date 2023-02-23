@@ -373,13 +373,13 @@ relative weight or importance:
 - [Compute](https://github.com/weder96/aws-certification-learning/tree/main/module-6)
 - [Cost management](https://github.com/weder96/aws-certification-learning/tree/main/module-2)
 - [Database](https://github.com/weder96/aws-certification-learning/tree/main/module-8)
-- Disaster recovery
-- High performance
-- Management and governance
-- Microservices and component decoupling
+- [Disaster recovery](https://github.com/weder96/aws-certification-learning/tree/main/module-97#section_01)
+- [High performance](https://github.com/weder96/aws-certification-learning/tree/main/module-97#section_03)
+- [Management and governance](https://github.com/weder96/aws-certification-learning/tree/main/module-20)
+- [Microservices and component decoupling](https://github.com/weder96/aws-certification-learning/tree/main/module-97#section_04)
 - [Migration and data transfer](https://github.com/weder96/aws-certification-learning/tree/main/module-13)
 - [Networking, connectivity, and content delivery](https://github.com/weder96/aws-certification-learning/tree/main/module-5)
-- Resiliency
+- [Resiliency](https://github.com/weder96/aws-certification-learning/tree/main/module-97#section_02)
 - [Security](https://github.com/weder96/aws-certification-learning/tree/main/module-4)
 - [Serverless and event-driven design principles](https://github.com/weder96/aws-certification-learning/tree/main/module-14)
 - [Storage](https://github.com/weder96/aws-certification-learning/tree/main/module-7)
@@ -452,10 +452,10 @@ relative weight or importance:
 1. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-26#section-01" target="_blank"> AWS X-Ray</a>
 
 ## Front-End Web and Mobile:
-1. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS Amplify</a>
-2. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon API Gateway</a>
-3. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS Device Farm</a>
-4. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon Pinpoint</a>
+1. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-28#section-01" target="_blank"> AWS Amplify</a>
+2. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-12#section-6" target="_blank"> Amazon API Gateway</a>
+3. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-28#section-03" target="_blank"> AWS Device Farm</a>
+4. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-28#section-04" target="_blank"> Amazon Pinpoint</a>
 
 
 ## Machine Learning:
@@ -475,72 +475,72 @@ relative weight or importance:
 ## Management and Governance:
 1. <img src="./images/solid/check.png" width="20px">  <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-10#section-1" target="_blank"> AWS Auto Scaling </a>
 2. <img src="./images/solid/check.png" width="20px">  <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-20#section-2" target="_blank"> AWS CloudFormation </a>
-3. <img src="./images/solid/noCheck.png" width="20px">  <a href="#" target="_blank"> AWS CloudTrail </a>
-4. <img src="./images/solid/noCheck.png" width="20px">  <a href="#" target="_blank"> Amazon CloudWatch</a>
-5. <img src="./images/solid/noCheck.png" width="20px">  <a href="#" target="_blank"> AWS Command Line Interface (AWS CLI)</a>
-6. <img src="./images/solid/noCheck.png" width="20px">  <a href="#" target="_blank"> AWS Compute Optimizer</a>
+3. <img src="./images/solid/check.png" width="20px">  <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-20#section-3" target="_blank"> AWS CloudTrail </a>
+4. <img src="./images/solid/check.png" width="20px">  <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-20#section-4" target="_blank"> Amazon CloudWatch</a>
+5. <img src="./images/solid/check.png" width="20px">  <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-20#section-5" target="_blank"> AWS Command Line Interface (AWS CLI)</a>
+6. <img src="./images/solid/check.png" width="20px">  <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-20#section-6" target="_blank"> AWS Compute Optimizer</a>
 7. <img src="./images/solid/check.png" width="20px">  <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-20#section-7" target="_blank"> AWS Config</a>
-8. <img src="./images/solid/noCheck.png" width="20px">  <a href="#" target="_blank"> AWS Control Tower</a>
+8. <img src="./images/solid/check.png" width="20px">  <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-20#section-8" target="_blank"> AWS Control Tower</a>
 9. <img src="./images/solid/check.png" width="20px">  <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-20#section-9" target="_blank"> AWS License Manager</a>
-10. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon Managed Grafana</a>
-11. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon Managed Service for Prometheus</a>
-12. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS Management Console</a>
-13. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS Organizations</a>
-14. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS Personal Health Dashboard</a>
-15. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS Proton</a>
-16. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS Service Catalog</a>
+10. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-20#section-10" target="_blank"> Amazon Managed Grafana</a>
+11. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-20#section-11" target="_blank"> Amazon Managed Service for Prometheus</a>
+12. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-20#section-12" target="_blank"> AWS Management Console</a>
+13. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-20#section-13" target="_blank"> AWS Organizations</a>
+14. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-20#section-14" target="_blank"> AWS Personal Health Dashboard</a>
+15. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-20#section-15" target="_blank"> AWS Proton</a>
+16. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-20#section-16" target="_blank"> AWS Service Catalog</a>
 17. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-20#section-17" target="_blank"> AWS Systems Manager</a>
 18. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-20#section-18" target="_blank"> AWS Trusted Advisor</a>
-19. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS Well Architected Tool</a>
+19. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-20#section-19" target="_blank"> AWS Well Architected Tool</a>
 
 ## Media Services:
-1. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Amazon Elastic Transcoder</a>
+1. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-17#section-07" target="_blank"> Amazon Elastic Transcoder</a>
 2. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-11#section-05" target="_blank"> Amazon Kinesis Video Streams</a>
 
 ## Migration and Transfer:
-1. <img src="./images/solid/noCheck.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-13#section-07" target="_blank"> AWS Application Discovery Service</a>
-2. <img src="./images/solid/noCheck.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-13#section-08" target="_blank"> AWS Application Migration Service (CloudEndure Migration)</a>
-3. <img src="./images/solid/noCheck.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-13#section-01" target="_blank"> AWS Database Migration Service
+1. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-13#section-07" target="_blank"> AWS Application Discovery Service</a>
+2. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-13#section-08" target="_blank"> AWS Application Migration Service (CloudEndure Migration)</a>
+3. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-13#section-01" target="_blank"> AWS Database Migration Service
 (AWS DMS)</a>
-4. <img src="./images/solid/noCheck.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-13#section-02" target="_blank"> AWS DataSync</a>
-5. <img src="./images/solid/noCheck.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-13#section-03" target="_blank"> AWS Migration Hub</a>
-6. <img src="./images/solid/noCheck.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-13#section-04" target="_blank"> AWS Server Migration Service (AWS SMS)</a>
-7. <img src="./images/solid/noCheck.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-13#section-05" target="_blank"> AWS Snow Family</a>
-8. <img src="./images/solid/noCheck.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-13#section-06" target="_blank"> AWS Transfer Family</a>
+4. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-13#section-02" target="_blank"> AWS DataSync</a>
+5. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-13#section-03" target="_blank"> AWS Migration Hub</a>
+6. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-13#section-04" target="_blank"> AWS Server Migration Service (AWS SMS)</a>
+7. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-13#section-05" target="_blank"> AWS Snow Family</a>
+8. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-13#section-06" target="_blank"> AWS Transfer Family</a>
 
 
 ## Networking and Content Delivery:
-1. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-5#section-1" target="_blank"> Amazon CloudFront</a>
-2. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-5#section-2" target="_blank"> AWS Direct Connect</a>
-3. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> Elastic Load Balancing (ELB)</a>
-4. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS Global Accelerator</a>
-5. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS PrivateLink</a>
-6. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-5#section-6" target="_blank"> Amazon Route 53</a>
-7. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-5#section-10" target="_blank"> AWS Transit Gateway</a>
-8. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-5#section-8" target="_blank"> Amazon VPC</a>
-9. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS VPN</a>
+1. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-5#section-1" target="_blank"> Amazon CloudFront </a>
+2. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-5#section-2" target="_blank"> AWS Direct Connect </a>
+3. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-5#section-3" target="_blank"> Elastic Load Balancing (ELB) </a>
+4. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-5#section-4" target="_blank"> AWS Global Accelerator </a>
+5. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-5#section-5" target="_blank"> AWS PrivateLink </a>
+6. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-5#section-6" target="_blank"> Amazon Route 53 </a>
+7. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-5#section-7" target="_blank"> AWS Transit Gateway </a>
+8. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-5#section-8" target="_blank"> Amazon VPC </a>
+9. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-5#section-9" target="_blank"> AWS VPN</a>
 
 
 ## Security, Identity, and Compliance:
 1. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-4#section-02" target="_blank"> AWS Artifact</a>
-2. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS Audit Manager</a>
+2. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-4#section-15" target="_blank"> AWS Audit Manager</a>
 3. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-4#section-07" target="_blank"> AWS Certificate Manager (ACM)</a>
 4. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-4#section-06" target="_blank"> AWS CloudHSM</a>
 5. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-4#section-11" target="_blank"> Amazon Cognito</a>
 6. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-4#section-17" target="_blank"> Amazon Detective</a>
-7. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS Directory Service</a>
-8. <img src="./images/solid/noCheck.png" width="20px"> <a href="#" target="_blank"> AWS Firewall Manager</a>
+7. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-4#section-12" target="_blank"> AWS Directory Service</a>
+8. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-4#section-18" target="_blank"> AWS Firewall Manager</a>
 9. <img src="./images/solid/check.png" width="20px"> <a href="https://github.com/weder96/aws-certification-learning/tree/main/module-4#section-03" target="_blank"> Amazon GuardDuty</a>
 10. <img src="./images/solid/check.png" width="20px"><a href="https://github.com/weder96/aws-certification-learning/tree/main/module-15" target="_blank"> AWS Identity and Access Management(IAM)</a>
 11. <img src="./images/solid/check.png" width="20px"><a href="https://github.com/weder96/aws-certification-learning/tree/main/module-4#section-01" target="_blank"> Amazon Inspector</a>
-12. <img src="./images/solid/noCheck.png" width="20px"><a href="#" target="_blank"> AWS Key Management Service (AWS KMS)</a>
+12. <img src="./images/solid/check.png" width="20px"><a href="https://github.com/weder96/aws-certification-learning/tree/main/module-4#section-05" target="_blank"> AWS Key Management Service (AWS KMS)</a>
 13. <img src="./images/solid/check.png" width="20px"><a href="https://github.com/weder96/aws-certification-learning/tree/main/module-4#section-19" target="_blank"> Amazon Macie</a>
-14. <img src="./images/solid/noCheck.png" width="20px"><a href="#" target="_blank"> AWS Network Firewall</a>
-15. <img src="./images/solid/noCheck.png" width="20px"><a href="#" target="_blank"> AWS Resource Access Manager (AWS RAM)</a>
-16. <img src="./images/solid/noCheck.png" width="20px"><a href="#" target="_blank"> AWS Secrets Manager</a>
-17. <img src="./images/solid/noCheck.png" width="20px"><a href="#" target="_blank"> AWS Security Hub</a>
+14. <img src="./images/solid/check.png" width="20px"><a href="https://github.com/weder96/aws-certification-learning/tree/main/module-4#section-20" target="_blank"> AWS Network Firewall</a>
+15. <img src="./images/solid/check.png" width="20px"><a href="https://github.com/weder96/aws-certification-learning/tree/main/module-4#section-21" target="_blank"> AWS Resource Access Manager (AWS RAM)</a>
+16. <img src="./images/solid/check.png" width="20px"><a href="https://github.com/weder96/aws-certification-learning/tree/main/module-4#section-14" target="_blank"> AWS Secrets Manager</a>
+17. <img src="./images/solid/check.png" width="20px"><a href="https://github.com/weder96/aws-certification-learning/tree/main/module-4#section-22" target="_blank"> AWS Security Hub</a>
 18. <img src="./images/solid/check.png" width="20px"><a href="https://github.com/weder96/aws-certification-learning/tree/main/module-4#section-23" target="_blank"> AWS Shield</a>
-19. <img src="./images/solid/noCheck.png" width="20px"><a href="#" target="_blank"> AWS Single Sign-On</a>
+19. <img src="./images/solid/check.png" width="20px"><a href="https://github.com/weder96/aws-certification-learning/tree/main/module-4#section-10" target="_blank"> AWS IAM Identity Center (Sucesor Single Sign-On (AWS SSO)) </a>
 20. <img src="./images/solid/check.png" width="20px"><a href="https://github.com/weder96/aws-certification-learning/tree/main/module-4#section-04" target="_blank"> AWS WAF</a>
 
 ## Serverless:
