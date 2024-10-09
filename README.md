@@ -104,11 +104,11 @@ includes the additional context. The percentage in each domain represents only s
 **Task Statement 1: Design secure access to AWS resources.**
 
 ### Knowledge of:
-- Access controls and management across multiple accounts
-- AWS federated access and identity services (for example, AWS Identity and Access Management [IAM], AWS Single Sign-On [AWS SSO])
-- AWS global infrastructure (for example, Availability Zones, AWS Regions)
-- AWS security best practices (for example, the principle of least privilege)
-- The AWS shared responsibility model
+- [Access controls and management across multiple accounts](https://www.stormit.cloud/blog/aws-organizations-how-to-manage-multiple-aws-accounts/)
+- [AWS federated access and identity services (for example, AWS Identity and Access Management [IAM], AWS Single Sign-On [AWS SSO])](https://aws.amazon.com/identity/federation/)
+- [AWS global infrastructure (for example, Availability Zones, AWS Regions)](https://github.com/weder96/aws-certification-learning/tree/main/module-3)
+- [AWS security best practices (for example, the principle of least privilege)](https://github.com/weder96/aws-certification-learning/tree/main/module-4)
+- [The AWS shared responsibility model](https://github.com/weder96/aws-certification-learning/tree/main/module-1#section-05)
 
 ### Skills in:
 - Applying AWS security best practices to IAM users and root users (for example, multi-factor
@@ -123,12 +123,12 @@ service control policies [SCPs])
 
 **Task Statement 2: Design secure workloads and applications.**
 ### Knowledge of:
-- Application configuration and credentials security
-- AWS service endpoints
-- Control ports, protocols, and network traffic on AWS
-- Secure application access
-- Security services with appropriate use cases (for example, Amazon Cognito, Amazon GuardDuty, Amazon Macie)
-- Threat vectors external to AWS (for example, DDoS, SQL injection)
+- [Application configuration and credentials security](https://docs.aws.amazon.com/IAM/latest/UserGuide/security-creds.html)
+- [AWS service endpoints](https://docs.aws.amazon.com/general/latest/gr/rande.html)
+- [Control ports, protocols, and network traffic on AWS](https://blowstack.com/blog/control-ports-protocols-and-network-traffic-on-aws)
+- [Secure application access](https://blowstack.com/blog/secure-application-access-in-aws)
+- [Security services with appropriate use cases (for example, Amazon Cognito, Amazon GuardDuty, Amazon Macie)](https://github.com/weder96/aws-certification-learning/tree/main/module-4)
+- [Threat vectors external to AWS (for example, DDoS, SQL injection)](https://blowstack.com/blog/threat-vectors-external-to-aws)
 
 ### Skills in:
 - Designing VPC architectures with security components (for example, security groups, route tables, network ACLs, NAT gateways)
@@ -140,7 +140,7 @@ vIntegrating AWS services to secure applications (for example, AWS Shield, AWS W
 **Task Statement 3: Determine appropriate data security controls.**
 ### Knowledge of:
 - Data access and governance
-- Data recovery
+- [Data recovery](https://aws.amazon.com/backup-restore/)
 - Data retention and classification
 - Encryption and appropriate key management
 
@@ -157,22 +157,22 @@ vIntegrating AWS services to secure applications (for example, AWS Shield, AWS W
 ## Domain 2: Design Resilient Architectures
 **Task Statement 1: Design scalable and loosely coupled architectures.**
 ### Knowledge of:
-- API creation and management (for example, Amazon API Gateway, REST API)
+- [API creation and management (for example, Amazon API Gateway, REST API)](https://blowstack.com/blog/api-creation-and-management-in-aws)
 - AWS managed services with appropriate use cases (for example, AWS Transfer Family, Amazon Simple Queue Service [Amazon SQS], Secrets Manager)
-- Caching strategies
-- Design principles for microservices (for example, stateless workloads compared with stateful workloads)
-- Event-driven architectures
-- Horizontal scaling and vertical scaling
-- How to appropriately use edge accelerators (for example, content delivery network [CDN])
-- How to migrate applications into containers
-- Load balancing concepts (for example, Application Load Balancer)
-- Multi-tier architectures
-- Queuing and messaging concepts (for example, publish/subscribe)
-- Serverless technologies and patterns (for example, AWS Fargate, AWS Lambda)
-- Storage types with associated characteristics (for example, object, file, block)
-- The orchestration of containers (for example, Amazon Elastic Container Service [Amazon ECS], Amazon Elastic Kubernetes Service [Amazon EKS])
-- When to use read replicas
-- Workflow orchestration (for example, AWS Step Functions)
+- [Caching strategies](https://aws.amazon.com/pt/caching/)
+- [Design principles for microservices (for example, stateless workloads compared with stateful workloads)](https://blowstack.com/blog/design-principles-for-microservices-in-aws)
+- [Event-driven architectures](https://aws.amazon.com/pt/event-driven-architecture/)
+- [Horizontal scaling and vertical scaling](https://github.com/weder96/aws-certification-learning/tree/main/module-10)
+- [How to appropriately use edge accelerators (for example, content delivery network [CDN])](https://aws.amazon.com/pt/products/networking/)
+- [How to migrate applications into containers](https://blowstack.com/blog/how-to-migrate-applications-into-containers-in-aws)
+- [Load balancing concepts (for example, Application Load Balancer)](https://aws.amazon.com/pt/what-is/load-balancing/#:~:text=Load%20balancing%20is%20the%20method,a%20fast%20and%20reliable%20manner.)
+- [Multi-tier architectures](https://docs.aws.amazon.com/whitepapers/latest/serverless-multi-tier-architectures-api-gateway-lambda/introduction.html)
+- [Queuing and messaging concepts (for example, publish/subscribe)](https://github.com/weder96/aws-certification-learning/tree/main/module-12)
+- [Serverless technologies and patterns (for example, AWS Fargate, AWS Lambda)](https://github.com/weder96/aws-certification-learning/tree/main/module-14)
+- [Storage types with associated characteristics (for example, object, file, block)](https://github.com/weder96/aws-certification-learning/tree/main/module-7)
+- [The orchestration of containers (for example, Amazon Elastic Container Service [Amazon ECS], Amazon Elastic Kubernetes Service [Amazon EKS])](https://github.com/weder96/aws-certification-learning/tree/main/module-18)
+- [When to use read replicas](https://aws.amazon.com/pt/rds/features/read-replicas/)
+- [Workflow orchestration (for example, AWS Step Functions)](https://docs.aws.amazon.com/whitepapers/latest/best-practices-building-data-lake-for-games/workflow-orchestration.html)
 
 ### Skills in:
 - Designing event-driven, microservice, and/or multi-tier architectures based on requirements
@@ -185,10 +185,10 @@ vIntegrating AWS services to secure applications (for example, AWS Shield, AWS W
 
 **Task Statement 2: Design highly available and/or fault-tolerant architectures.**
 ### Knowledge of:
-- AWS global infrastructure (for example, Availability Zones, AWS Regions, Amazon Route 53)
-- AWS managed services with appropriate use cases (for example, Amazon Comprehend, Amazon Polly)
-- Basic networking concepts (for example, route tables)
-- Disaster recovery (DR) strategies (for example, backup and restore, pilot light, warm standby, active-active failover, recovery point objective [RPO], recovery time objective [RTO])
+- [AWS global infrastructure (for example, Availability Zones, AWS Regions, Amazon Route 53)](https://aws.amazon.com/pt/about-aws/global-infrastructure/)
+- [AWS managed services with appropriate use cases (for example, Amazon Comprehend, Amazon Polly)](https://github.com/weder96/aws-certification-learning/tree/main/module-19)
+- [Basic networking concepts (for example, route tables)](https://github.com/weder96/aws-certification-learning/tree/main/module-5)
+- [Disaster recovery (DR) strategies (for example, backup and restore, pilot light, warm standby, active-active failover, recovery point objective [RPO], recovery time objective [RTO])](https://d1.awsstatic.com/whitepapers/aws-disaster-recovery.pdf)
 - Distributed design patterns
 - Failover strategies
 - Immutable infrastructure
