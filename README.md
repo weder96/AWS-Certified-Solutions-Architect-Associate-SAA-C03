@@ -1,6 +1,6 @@
 # **AWS Certified Solutions Architect - Associate (SAA-C03)**
 
-[**AWS Certified Solutions Architect - Associate (SAA-C03) Exam Guide**](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide_C03.pdf)
+[**AWS Certified Solutions Architect - Associate (SAA-C03) Exam Guide**](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide_C03.pdf) {:target="_blank"} 
 
 
 This study guide will help you pass the newer AWS Certified Solutions Architect - Associate exam. Ideally, you should reference this guide while working through the following material:
