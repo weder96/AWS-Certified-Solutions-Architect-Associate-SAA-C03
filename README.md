@@ -1,12 +1,13 @@
 # **AWS Certified Solutions Architect - Associate (SAA-C03)**
 
-[**AWS Certified Solutions Architect - Associate (SAA-C03) Exam Guide**](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide_C03.pdf) {:target="_blank"} 
+[**AWS Certified Solutions Architect - Associate (SAA-C03) Exam Guide**](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide_C03.pdf) 
 
 
 This study guide will help you pass the newer AWS Certified Solutions Architect - Associate exam. Ideally, you should reference this guide while working through the following material:
 
-1. Stephane Maarek's [Ultimate AWS Certified Solutions Architect Associate 2021 course](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/?couponCode=DEC_22_GET_STARTED) (permanent discount available through this link) 
-A Cloud Guru's [AWS Certified Solutions Architect Associate SAA-C02](https://acloud.guru/learn/aws-certified-solutions-architect-associate) course
+1. Stephane Maarek's [Ultimate AWS Certified Solutions Architect Associate course](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/) (permanent discount available through this link) 
+
+A Cloud Guru's [AWS Certified Solutions Architect Associate SAA-C03](https://www.pluralsight.com/cloud-guru/courses/aws-certified-solutions-architect-associate-saa-c03) course
 
 2. The FAQs for the most critical services, included in the recommended reading list below
 
@@ -189,14 +190,14 @@ vIntegrating AWS services to secure applications (for example, AWS Shield, AWS W
 - [AWS managed services with appropriate use cases (for example, Amazon Comprehend, Amazon Polly)](https://github.com/weder96/aws-certification-learning/tree/main/module-19)
 - [Basic networking concepts (for example, route tables)](https://github.com/weder96/aws-certification-learning/tree/main/module-5)
 - [Disaster recovery (DR) strategies (for example, backup and restore, pilot light, warm standby, active-active failover, recovery point objective [RPO], recovery time objective [RTO])](https://d1.awsstatic.com/whitepapers/aws-disaster-recovery.pdf)
-- Distributed design patterns
-- Failover strategies
-- Immutable infrastructure
-- Load balancing concepts (for example, Application Load Balancer)
-- Proxy concepts (for example, Amazon RDS Proxy)
-- Service quotas and throttling (for example, how to configure the service quotas for a workload in a standby environment)
-- Storage options and characteristics (for example, durability, replication)
-- Workload visibility (for example, AWS X-Ray)
+- [Distributed design patterns](https://docs.aws.amazon.com/prescriptive-guidance/latest/cloud-design-patterns/introduction.html)
+- [Failover strategies](https://aws.amazon.com/blogs/architecture/creating-an-organizational-multi-region-failover-strategy/)
+- [Immutable infrastructure](https://docs.aws.amazon.com/wellarchitected/latest/framework/rel_tracking_change_management_immutable_infrastructure.html)
+- [Load balancing concepts (for example, Application Load Balancer)](https://github.com/weder96/aws-certification-learning/tree/main/module-5#section-3)
+- [Proxy concepts (for example, Amazon RDS Proxy)](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/rds-proxy.howitworks.html)
+- [Service quotas and throttling (for example, how to configure the service quotas for a workload in a standby environment)](https://blowstack.com/blog/service-quotas-and-throttling-on-aws)
+- [Storage options and characteristics (for example, durability, replication)](https://docs.aws.amazon.com/decision-guides/latest/storage-on-aws-how-to-choose/choosing-aws-storage-service.html)
+- [Workload visibility (for example, AWS X-Ray)](https://github.com/weder96/aws-certification-learning/tree/main/module-26#section-01)
 
 ### Skills in:
 - Determining automation strategies to ensure infrastructure integrity
@@ -213,9 +214,9 @@ vIntegrating AWS services to secure applications (for example, AWS Shield, AWS W
 ## Domain 3: Design High-Performing Architectures
 **Task Statement 1: Determine high-performing and/or scalable storage solutions.**
 ### Knowledge of:
-- Hybrid storage solutions to meet business requirements
-- Storage services with appropriate use cases (for example, Amazon S3, Amazon Elastic File System [Amazon EFS], Amazon Elastic Block Store [Amazon EBS])
-- Storage types with associated characteristics (for example, object, file, block)
+- [Hybrid storage solutions to meet business requirements](https://docs.aws.amazon.com/decision-guides/latest/storage-on-aws-how-to-choose/choosing-aws-storage-service.html)
+- [Storage services with appropriate use cases (for example, Amazon S3, Amazon Elastic File System [Amazon EFS], Amazon Elastic Block Store [Amazon EBS])](https://docs.aws.amazon.com/decision-guides/latest/storage-on-aws-how-to-choose/choosing-aws-storage-service.html)
+- [Storage types with associated characteristics (for example, object, file, block)](https://docs.aws.amazon.com/decision-guides/latest/storage-on-aws-how-to-choose/choosing-aws-storage-service.html)
 
 ### Skills in:
 - Determining storage services and configurations that meet performance demands
@@ -223,12 +224,12 @@ vIntegrating AWS services to secure applications (for example, AWS Shield, AWS W
 
 **Task Statement 2: Design high-performing and elastic compute solutions.**
 ### Knowledge of:
-- AWS compute services with appropriate use cases (for example, AWS Batch, Amazon EMR, Fargate)
-- Distributed computing concepts supported by AWS global infrastructure and edge services
-- Queuing and messaging concepts (for example, publish/subscribe)
-- Scalability capabilities with appropriate use cases (for example, Amazon EC2 Auto Scaling, AWS Auto Scaling)
-- Serverless technologies and patterns (for example, Lambda, Fargate)
-- The orchestration of containers (for example, Amazon ECS, Amazon EKS)
+- [AWS compute services with appropriate use cases (for example, AWS Batch, Amazon EMR, Fargate)](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html)
+- [Distributed computing concepts supported by AWS global infrastructure and edge services](https://blowstack.com/blog/distributed-computing-concepts-supported-by-aws-global-infrastructure-and-edge-services-on-aws)
+- [Queuing and messaging concepts (for example, publish/subscribe)](https://aws.amazon.com/what-is/pub-sub-messaging/?nc1=h_ls)
+- [Scalability capabilities with appropriate use cases (for example, Amazon EC2 Auto Scaling, AWS Auto Scaling)](https://blowstack.com/blog/scalability-capabilities-with-appropriate-use-cases-on-aws)
+- [Serverless technologies and patterns (for example, Lambda, Fargate)](https://aws.amazon.com/serverless/)
+- [The orchestration of containers (for example, Amazon ECS, Amazon EKS)](https://aws.amazon.com/containers/)
 
 ### Skills in:
 - Decoupling workloads so that components can scale independently
@@ -238,14 +239,14 @@ vIntegrating AWS services to secure applications (for example, AWS Shield, AWS W
 
 **Task Statement 3: Determine high-performing database solutions.**
 ### Knowledge of:
-- AWS global infrastructure (for example, Availability Zones, AWS Regions)
-- Caching strategies and services (for example, Amazon ElastiCache)
-- Data access patterns (for example, read-intensive compared with write-intensive)
-- Database capacity planning (for example, capacity units, instance types, Provisioned IOPS)
-- Database connections and proxies
-- Database engines with appropriate use cases (for example, heterogeneous migrations, homogeneous migrations)
-- Database replication (for example, read replicas)
-- Database types and services (for example, serverless, relational compared with non-relational, in-memory
+- [AWS global infrastructure (for example, Availability Zones, AWS Regions)](https://aws.amazon.com/about-aws/global-infrastructure/regions_az/)
+- [Caching strategies and services (for example, Amazon ElastiCache)](https://aws.amazon.com/caching/best-practices/)
+- [Data access patterns (for example, read-intensive compared with write-intensive)](https://blowstack.com/blog/data-access-patterns-on-aws)
+- [Database capacity planning (for example, capacity units, instance types, Provisioned IOPS)](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_Storage.html)
+- [Database connections and proxies](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/rds-proxy.html)
+- [Database engines with appropriate use cases (for example, heterogeneous migrations, homogeneous migrations)](https://docs.aws.amazon.com/decision-guides/latest/databases-on-aws-how-to-choose/databases-on-aws-how-to-choose.html)
+- [Database replication (for example, read replicas)](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ReadRepl.html)
+- [Database types and services (for example, serverless, relational compared with non-relational, in-memory](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/database.html)
 
 ### Skills in:
 - Configuring read replicas to meet business requirements
@@ -256,10 +257,10 @@ vIntegrating AWS services to secure applications (for example, AWS Shield, AWS W
 
 **Task Statement 4: Determine high-performing and/or scalable network architectures.**
 ### Knowledge of:
-- Edge networking services with appropriate use cases (for example, Amazon CloudFront, AWS Global Accelerator)
-- How to design network architecture (for example, subnet tiers, routing, IP addressing)
-- Load balancing concepts (for example, Application Load Balancer)
-- Network connection options (for example, AWS VPN, Direct Connect, AWS PrivateLink)
+- [Edge networking services with appropriate use cases (for example, Amazon CloudFront, AWS Global Accelerator)](https://aws.amazon.com/products/networking/edge-networking/)
+- [How to design network architecture (for example, subnet tiers, routing, IP addressing)](https://docs.aws.amazon.com/whitepapers/latest/build-secure-enterprise-ml-platform/networking-architecture.html)
+- [Load balancing concepts (for example, Application Load Balancer)](https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/how-elastic-load-balancing-works.html)
+- [Network connection options (for example, AWS VPN, Direct Connect, AWS PrivateLink)](https://docs.aws.amazon.com/whitepapers/latest/aws-vpc-connectivity-options/aws-direct-connect.html)
 
 ### Skills in:
 - Creating a network topology for various architectures (for example, global, hybrid, multi-tier)
@@ -269,13 +270,13 @@ vIntegrating AWS services to secure applications (for example, AWS Shield, AWS W
 
 **Task Statement 5: Determine high-performing data ingestion and transformation solutions.**
 ### Knowledge of:
-- Data analytics and visualization services with appropriate use cases (for example, Amazon Athena, AWS Lake Formation, Amazon QuickSight)
-- Data ingestion patterns (for example, frequency)
-- Data transfer services with appropriate use cases (for example, AWS DataSync, AWS Storage Gateway)
-- Data transformation services with appropriate use cases (for example, AWS Glue)
-- Secure access to ingestion access points
-- Sizes and speeds needed to meet business requirements
-- Streaming data services with appropriate use cases (for example, Amazon Kinesis)
+- [Data analytics and visualization services with appropriate use cases (for example, Amazon Athena, AWS Lake Formation, Amazon QuickSight)](https://docs.aws.amazon.com/decision-guides/latest/analytics-on-aws-how-to-choose/analytics-on-aws-how-to-choose.html)
+- [Data ingestion patterns (for example, frequency)](https://docs.aws.amazon.com/decision-guides/latest/analytics-on-aws-how-to-choose/analytics-on-aws-how-to-choose.html)
+- [Data transfer services with appropriate use cases (for example, AWS DataSync, AWS Storage Gateway)](https://aws.amazon.com/cloud-data-migration/)
+- [Data transformation services with appropriate use cases (for example, AWS Glue)](https://docs.aws.amazon.com/whitepapers/latest/best-practices-building-data-lake-for-games/data-transformation.html)
+- [Secure access to ingestion access points](https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-points.html)
+- [Sizes and speeds needed to meet business requirements](https://docs.aws.amazon.com/prescriptive-guidance/latest/application-portfolio-assessment-guide/understanding-initial-assessment-data-requirements.html)
+- [Streaming data services with appropriate use cases (for example, Amazon Kinesis)](https://aws.amazon.com/what-is/streaming-data/)
 
 ### Skills in:
 - Building and securing data lakes
@@ -291,17 +292,17 @@ vIntegrating AWS services to secure applications (for example, AWS Shield, AWS W
 ## Domain 4: Design Cost-Optimized Architectures
 **Task Statement 1: Design cost-optimized storage solutions.**
 ### Knowledge of:
-- Access options (for example, an S3 bucket with Requester Pays object storage)
-- AWS cost management service features (for example, cost allocation tags, multi-account billing)
-- AWS cost management tools with appropriate use cases (for example, AWS Cost Explorer, AWS Budgets, AWS Cost and Usage Report)
-- AWS storage services with appropriate use cases (for example, Amazon FSx, Amazon EFS, Amazon S3, Amazon EBS)
-- Backup strategies
-- Block storage options (for example, hard disk drive [HDD] volume types, solid state drive [SSD] volume types)
-- Data lifecycles
-- Hybrid storage options (for example, DataSync, Transfer Family, Storage Gateway)
-- Storage access patterns
-- Storage tiering (for example, cold tiering for object storage)
-- Storage types with associated characteristics (for example, object, file, block)
+- [Access options (for example, an S3 bucket with Requester Pays object storage)](https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-points.html)
+- [AWS cost management service features (for example, cost allocation tags, multi-account billing)](https://docs.aws.amazon.com/cost-management/latest/userguide/what-is-costmanagement.html)
+- [AWS cost management tools with appropriate use cases (for example, AWS Cost Explorer, AWS Budgets, AWS Cost and Usage Report)](https://docs.aws.amazon.com/cost-management/latest/userguide/what-is-costmanagement.html)
+- [AWS storage services with appropriate use cases (for example, Amazon FSx, Amazon EFS, Amazon S3, Amazon EBS)](https://docs.aws.amazon.com/decision-guides/latest/storage-on-aws-how-to-choose/choosing-aws-storage-service.html)
+- [Backup strategies](https://docs.aws.amazon.com/prescriptive-guidance/latest/backup-recovery/welcome.html)
+- [Block storage options (for example, hard disk drive [HDD] volume types, solid state drive [SSD] volume types)](https://aws.amazon.com/what-is/block-storage/)
+- [Data lifecycles](https://aws.amazon.com/ebs/data-lifecycle-manager/?nc1=h_ls)
+- [Hybrid storage options (for example, DataSync, Transfer Family, Storage Gateway)](https://docs.aws.amazon.com/decision-guides/latest/storage-on-aws-how-to-choose/choosing-aws-storage-service.html)
+- [Storage access patterns](https://aws.amazon.com/blogs/storage/analyze-access-patterns-and-use-the-most-cost-effective-amazon-s3-storage-class/)
+- [Storage tiering (for example, cold tiering for object storage)](https://aws.amazon.com/s3/storage-classes/?nc1=h_ls)
+- [Storage types with associated characteristics (for example, object, file, block)](https://blowstack.com/blog/storage-types-with-associated-characteristics-in-aws)
 
 ### Skills in:
 - Designing appropriate storage strategies (for example, batch uploads to Amazon S3 compared with individual uploads)
@@ -317,15 +318,15 @@ vIntegrating AWS services to secure applications (for example, AWS Shield, AWS W
 
 **Task Statement 2: Design cost-optimized compute solutions.**
 ### Knowledge of:
-- AWS cost management service features (for example, cost allocation tags, multi-account billing)
-- AWS cost management tools with appropriate use cases (for example, Cost Explorer, AWS Budgets, AWS Cost and Usage Report)
-- AWS global infrastructure (for example, Availability Zones, AWS Regions)
-- AWS purchasing options (for example, Spot Instances, Reserved Instances, Savings Plans)
+- [AWS cost management service features (for example, cost allocation tags, multi-account billing)](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/cost-alloc-tags.html)
+- [AWS cost management tools with appropriate use cases (for example, Cost Explorer, AWS Budgets, AWS Cost and Usage Report)](https://www.cloudzero.com/blog/cost-explorer-vs-cost-and-usage-report/#:~:text=Indeed%2C%20AWS%20Cost%20and%20Usage,product%20resource%2C%20and%20custom%20tags.)
+- [AWS global infrastructure (for example, Availability Zones, AWS Regions)](https://mycloudwiki.com/aws/aws-global-infrastructure-and-account-governance/)
+- [AWS purchasing options (for example, Spot Instances, Reserved Instances, Savings Plans)](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-purchasing-options.html)
 - Distributed compute strategies (for example, edge processing)
-- Hybrid compute options (for example, AWS Outposts, AWS Snowball Edge)
-- Instance types, families, and sizes (for example, memory optimized, compute optimized, virtualization)
-- Optimization of compute utilization (for example, containers, serverless computing, microservices)
-- Scaling strategies (for example, auto scaling, hibernation)
+- [Hybrid compute options (for example, AWS Outposts, AWS Snowball Edge)](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html)
+- [Instance types, families, and sizes (for example, memory optimized, compute optimized, virtualization)](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html)
+- [Optimization of compute utilization (for example, containers, serverless computing, microservices)](https://aws.amazon.com/blogs/aws-cloud-financial-management/optimizing-resource-efficiency-with-aws-compute-optimizer/)
+- [Scaling strategies (for example, auto scaling, hibernation)](https://docs.aws.amazon.com/autoscaling/plans/userguide/how-it-works.html)
 
 ### Skills in:
 - Determining an appropriate load balancing strategy (for example, Application Load Balancer [Layer 7] compared with Network Load Balancer [Layer 4] compared with Gateway Load Balancer)
@@ -347,17 +348,6 @@ vIntegrating AWS services to secure applications (for example, AWS Shield, AWS W
 - Database replication (for example, read replicas)
 - Database types and services (for example, relational compared with non-relational, Aurora, DynamoDB)
 
-**Task Statement 3: Design cost-optimized database solutions.**
-### Knowledge of:
-- AWS cost management service features (for example, cost allocation tags, multi-account billing)
-- AWS cost management tools with appropriate use cases (for example, Cost Explorer, AWS Budgets, AWS Cost and Usage Report)
-- Caching strategies
-- Data retention policies
-- Database capacity planning (for example, capacity units)
-- Database connections and proxies
-- Database engines with appropriate use cases (for example, heterogeneous migrations, homogeneous migrations)
-- Database replication (for example, read replicas)
-- Database types and services (for example, relational compared with non-relational, Aurora,DynamoDB)
 
 -------------------------------------------------------------------------------------------------------
 
