@@ -13,7 +13,9 @@ A Cloud Guru's [AWS Certified Solutions Architect Associate SAA-C03](https://www
 
 3. Tutorials Dojo's [AWS Certified Solutions Architect Associate](https://www.udemy.com/course/aws-certified-solutions-architect-associate-amazon-practice-exams-saa-c03/) Practice Exams
 
-4. Andrew Brown's [AWS Certified Solutions Architect](https://www.youtube.com/watch?v=Ia-UEYYR44s) - Associate 2020 (PASS THE EXAM!) | Ad-Free Course
+4. Tutorials Dojo's [AWS Certified Solutions Architect Associate](https://tutorialsdojo.com/aws-certified-solutions-architect-associate-saa-c03/) Overview
+
+5. Andrew Brown's [AWS Certified Solutions Architect](https://www.youtube.com/watch?v=Ia-UEYYR44s) - Associate 2020 (PASS THE EXAM!) | Ad-Free Course
 
 Notes: If at any point you find yourself feeling uncertain of your progress and in need of more time, you can postpone your AWS exam date. Be sure to also keep up with the ongoing discussions in [r/AWSCertifications](https://www.reddit.com/r/AWSCertifications/) as you will find relevant exam tips, studying material, and advice from other exam takers. 
 
@@ -322,7 +324,7 @@ vIntegrating AWS services to secure applications (for example, AWS Shield, AWS W
 - [AWS cost management tools with appropriate use cases (for example, Cost Explorer, AWS Budgets, AWS Cost and Usage Report)](https://www.cloudzero.com/blog/cost-explorer-vs-cost-and-usage-report/#:~:text=Indeed%2C%20AWS%20Cost%20and%20Usage,product%20resource%2C%20and%20custom%20tags.)
 - [AWS global infrastructure (for example, Availability Zones, AWS Regions)](https://mycloudwiki.com/aws/aws-global-infrastructure-and-account-governance/)
 - [AWS purchasing options (for example, Spot Instances, Reserved Instances, Savings Plans)](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-purchasing-options.html)
-- Distributed compute strategies (for example, edge processing)
+- [Distributed compute strategies (for example, edge processing)](https://aws.amazon.com/architecture/)
 - [Hybrid compute options (for example, AWS Outposts, AWS Snowball Edge)](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html)
 - [Instance types, families, and sizes (for example, memory optimized, compute optimized, virtualization)](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html)
 - [Optimization of compute utilization (for example, containers, serverless computing, microservices)](https://aws.amazon.com/blogs/aws-cloud-financial-management/optimizing-resource-efficiency-with-aws-compute-optimizer/)
@@ -650,3 +652,29 @@ These services and features do not represent every AWS offering that is excluded
 
 ## Satellite:
 - AWS Ground Station
+
+
+
+
+# Common Exam Scenarios for the SAA-C03 exam 
+
+- [Module 01: Storage - EBS ][01]
+- [Module 02: Storage - EfS ][02]
+- [Module 03: Storage - FSx ][03]
+- [Module 04: Storage - S3 ][04]
+- [Module 05: Storage - SnowBall ][05]
+- [Module 05: AWS Well-Architected Framework  ][06]
+- [Module 10: AWS Security][10]
+- [Module 11: AWS CAF][11]
+- [Module 12: Networking][12]
+ 
+
+[01]: https://github.com/weder96/AWS-Certified-Solutions-Architect-Associate-SAA-C03/tree/main/module-01
+[02]: https://github.com/weder96/AWS-Certified-Solutions-Architect-Associate-SAA-C03/tree/main/module-02
+[03]: https://github.com/weder96/AWS-Certified-Solutions-Architect-Associate-SAA-C03/tree/main/module-03
+[04]: https://github.com/weder96/AWS-Certified-Solutions-Architect-Associate-SAA-C03/tree/main/module-04
+[05]: https://github.com/weder96/AWS-Certified-Solutions-Architect-Associate-SAA-C03/tree/main/module-05
+[06]: https://github.com/weder96/AWS-Certified-Solutions-Architect-Associate-SAA-C03/tree/main/module-06
+[10]: https://github.com/weder96/AWS-Certified-Solutions-Architect-Associate-SAA-C03/tree/main/module-10
+[11]: https://github.com/weder96/AWS-Certified-Solutions-Architect-Associate-SAA-C03/tree/main/module-11
+[12]: https://github.com/weder96/AWS-Certified-Solutions-Architect-Associate-SAA-C03/tree/main/module-12
