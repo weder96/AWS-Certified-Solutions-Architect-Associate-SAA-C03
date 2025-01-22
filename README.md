@@ -669,12 +669,12 @@ These services and features do not represent every AWS offering that is excluded
 - [Module 12: Networking][12]
  
 
-[01]: https://github.com/weder96/AWS-Certified-Solutions-Architect-Associate-SAA-C03/tree/main/module-01
-[02]: https://github.com/weder96/AWS-Certified-Solutions-Architect-Associate-SAA-C03/tree/main/module-02
-[03]: https://github.com/weder96/AWS-Certified-Solutions-Architect-Associate-SAA-C03/tree/main/module-03
-[04]: https://github.com/weder96/AWS-Certified-Solutions-Architect-Associate-SAA-C03/tree/main/module-04
-[05]: https://github.com/weder96/AWS-Certified-Solutions-Architect-Associate-SAA-C03/tree/main/module-05
-[06]: https://github.com/weder96/AWS-Certified-Solutions-Architect-Associate-SAA-C03/tree/main/module-06
-[10]: https://github.com/weder96/AWS-Certified-Solutions-Architect-Associate-SAA-C03/tree/main/module-10
-[11]: https://github.com/weder96/AWS-Certified-Solutions-Architect-Associate-SAA-C03/tree/main/module-11
-[12]: https://github.com/weder96/AWS-Certified-Solutions-Architect-Associate-SAA-C03/tree/main/module-12
+[01]: https://github.com/weder96/AWS-Certified-Solutions-Architect-Associate-SAA-C03/tree/master/module-01
+[02]: https://github.com/weder96/AWS-Certified-Solutions-Architect-Associate-SAA-C03/tree/master/module-02
+[03]: https://github.com/weder96/AWS-Certified-Solutions-Architect-Associate-SAA-C03/tree/master/module-03
+[04]: https://github.com/weder96/AWS-Certified-Solutions-Architect-Associate-SAA-C03/tree/master/module-04
+[05]: https://github.com/weder96/AWS-Certified-Solutions-Architect-Associate-SAA-C03/tree/master/module-05
+[06]: https://github.com/weder96/AWS-Certified-Solutions-Architect-Associate-SAA-C03/tree/master/module-06
+[10]: https://github.com/weder96/AWS-Certified-Solutions-Architect-Associate-SAA-C03/tree/master/module-10
+[11]: https://github.com/weder96/AWS-Certified-Solutions-Architect-Associate-SAA-C03/tree/master/module-11
+[12]: https://github.com/weder96/AWS-Certified-Solutions-Architect-Associate-SAA-C03/tree/master/module-12
